@@ -1,0 +1,26 @@
+name: ml_dl_n1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - numpy=1.22.4
+  - pyglpk
+  - scipy
+  - arm_pyart
+  - cartopy
+  - jupyterlab
+  - matplotlib
+  - gdal
+  - xarray
+  - ipyparallel
+  - nc-time-axis
+  - rioxarray
+  - seaborn
+  - geopandas
+  - matplotlib-scalebar
+  - lightgbm
+  - xgboost
+  - mlxtend
+  - conda-forge::adjusttext
+prefix: C:\Users\Admin\anaconda3\envs\ml_dl_n1

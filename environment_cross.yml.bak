@@ -1,0 +1,19 @@
+name: pyart
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - arm_pyart
+  - jupyter
+  - cartopy
+  - matplotlib
+  - ipyparallel
+  - numpy=1.22.4
+  - scipy=1.8.1
+  - xarray
+  - pyglpk
+  - nc-time-axis
+  - rioxarray
+  - gdal
+  - jupyterlab
+prefix: C:\Users\Admin\anaconda3\envs\pyart
